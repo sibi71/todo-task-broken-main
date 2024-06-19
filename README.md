@@ -1,4 +1,6 @@
-# Broken React TO DO application based on context api
+# Broken React TO DO application based on context api 
+
+# finshed the task
 
 This application was intentionally broken, there are six critical issues that a candidate has to fix:
 
